@@ -8,4 +8,4 @@ jobs:
 
         steps:
             - name: Printing Hello
-              run: cat "sample-test successful"
+              run: echo "sample-test successful"
